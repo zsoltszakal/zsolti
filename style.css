@@ -6,6 +6,10 @@
     grid-template-columns: repeat(2,1fr);
 }
 
+button{
+  margin: 13px 12px 12px 10px;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -16,11 +20,6 @@ body{
 }
 
 
-
-.btn btn-dark {
-   color: red;
-  }
-  
 h2,.white{
     color: #fff;
 }
@@ -109,7 +108,3 @@ a{
         padding-top: 2rem;
     }
 }
-
-.btn btn-dark {
-   color: red;
-  }
