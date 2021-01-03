@@ -7,11 +7,12 @@
 }
 
 button {
-  margin: 5px 5px 5px 5px;
+  margin: 2px 2px 2px 2px;
 }
 
-i {
-  margin: 25px 25px 25px 25px;
+.pc {
+  padding-bottom: 20px;
+  margin-top: 0px;
 }
 
 body {
@@ -33,7 +34,7 @@ a {
 
 /* section 1 */
 .section-1 {
-  padding-top: 40vh;
+  padding-top: 20vh;
   text-align: center;
 }
 
